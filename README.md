@@ -1,6 +1,27 @@
-This web application is designed to directly connect farmers with consumers and retailers, enabling them to bypass intermediaries and engage in transparent, efficient transactions.
-The platform allows farmers to showcase their products, negotiate prices, and handle transactions securely, while consumers can easily find and purchase fresh agricultural produce. The application also features a recommendation system to enhance user experience and increase sales opportunities for farmers.
-he project is built using HTML, CSS, JavaScript, Python, and Django.
-Product Listings: Farmers can list their agricultural products, including descriptions, pricing, and availability, making it easier for consumers to discover and buy directly from the source.
+# Direct Market Access for Farmers
 
-Messaging System: Real-time communication between farmers and buyers allows for seamless price negotiations and customized deals.
+## Abstract
+
+Farmers often encounter significant challenges in accessing markets, leading to lower income due to reliance on intermediaries. This dependence restricts their ability to sell produce at fair prices, undermining their economic stability. To address these issues, we propose the development of a web application that directly connects farmers with consumers and retailers. This user-friendly platform will empower farmers to showcase their products, negotiate prices, and manage transactions without the involvement of middlemen.
+
+## Key Features
+
+- **Product Listings**: Highlights the quality and variety of produce, enabling farmers to reach a broader audience.
+- **Messaging System**: Facilitates real-time communication between farmers and buyers for seamless price negotiations and customized deals.
+- **Recommendation System**: Powered by machine learning, suggesting additional products from the same farmer when a buyer makes a purchase.
+- **Add New Product**: Farmers can add new products to the platform, providing product details such as name, description, price, and quantity.
+
+
+
+## Technology Stack
+
+- **Frontend**: Html,CSS,Javascript
+- **Backend**: Django
+- **Database**: dbsqlite3
+- **Machine Learning**: Python (scikit-learn)
+- 
+
+
+
+
+
